@@ -284,7 +284,18 @@ public class Magpie5
 	private String [] randomResponses = {"Interesting, tell me more",
 			"Hmmm.",
 			"Do you really think so?",
-			"You don't say."
+			"You don't say.",
+			"What does the inside of your nose smell like?",
+			"You can discover everything you need to know about everything by looking at your hands- Jaden Smith",
+			"How can mirrors be real if our eyes aren't real- Jaden Smith",
+			"That moment when peeing feels so good you start crying- Jaden Smith",
+			"You sound like you still think mirrors are real [drops mic]- Jaden Smith",
+			"I'm Sorry Bae, But You'd Be Too Scared To Talk To A Real Tree. Now, If You Excuse Me, I Have To Go Watch Donnie Darko Again.- Jaden Smith",
+			"Why Read Something You Can Experience? I Can't Say Much More Because I'm *Literally* About To Transcend.- Jaden Smith",
+			"Do You Believe Existence Believes In You? Be Realer.- Jaden Smith",
+			"Trees Don't Know How To Be Sad. Radical.- Jaden Smith",
+			"I'm Sorry Bae, But I Cry Distilled Tears. Now, If You Excuse Me, I Have To Go Stare In The Mirror And Cry.- Jaden Smith",
+			"A Mirror Is Only A Prison For Your Reflection. A Tree Just Whispered That To Me In My Sleep.- Jaden Smith"
 	};
 	
 }
